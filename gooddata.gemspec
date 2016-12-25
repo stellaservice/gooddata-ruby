@@ -48,7 +48,7 @@ Gem::Specification.new do |s|
   s.add_dependency 'erubis', '~> 2.7', '>= 2.7.0'
   s.add_dependency 'gli', '~> 2.13', '>= 2.13.2'
   s.add_dependency 'highline', '~> 1.7', '>= 1.7.3'
-  s.add_dependency 'json_pure', '~> 1.8', '>= 1.8.2'
+  s.add_dependency 'json_pure', '~> 2', '>= 1.8.2'
   s.add_dependency 'multi_json', '~> 1.11', '>= 1.11.2'
   s.add_dependency 'parseconfig', '~> 1.0', '>= 1.0.6'
   s.add_dependency 'pmap', '~> 1.0', '>= 1.0.2'
